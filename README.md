@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **React, JS**
 
-- 👨‍💻 All of my projects are available at [moe3n.github.io](moe3n.github.io)
+- 👨‍💻 All of my projects are available at [moe3n.github.io]([moe3n.github.io](https://devmahmudul.netlify.app))
 
-- 📝 I regularly write articles on [moe3n.github.io](moe3n.github.io)
+- 📝 I regularly write articles on [moe3n.github.io]([moe3n.github.io](https://devmahmudul.netlify.app))
 
 - 💬 Ask me about **HTML, CSS, CPP, PHP, Python**
 
